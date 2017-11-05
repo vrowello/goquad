@@ -13,7 +13,7 @@ Requires a working Go workspace
 
 ```bash
 go get github.com/vrowello/goquad
-cd goquad
+cd github.com/vrowello/goquad
 go install
 ```
 
