@@ -12,7 +12,7 @@ Requires a working Go workspace
 2) Run the following
 
 ```bash
-git clone https://github.com/vrowello/goquad
+go get github.com/vrowello/goquad
 cd goquad
 go install
 ```
